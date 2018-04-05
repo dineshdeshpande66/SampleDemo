@@ -32,31 +32,29 @@
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1522909576441,
-            "changeTime": 1522909576441,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1522913344267,
+            "changeTime": 1522913344267,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1522909576441,
-            "changeTime": 1522909576441,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1522913393901,
+            "changeTime": 1522913393901,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "17aa310aa62025be3b89d9bd20f84271cadc36f4"
         }
     ],
     [
@@ -82,35 +80,35 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1522913344267,
-            "changeTime": 1522913344267,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+            "modifiedTime": 1522913779853,
+            "changeTime": 1522913779853,
+            "contentHash": "674908831e36fd2d77a7fd01a438e19fa9efe80a"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522913393935,
             "changeTime": 1522913393935,
-            "contentHash": "8ceb04748a3837e78b7ddb72e5f5e9d0bcfeaa29"
+            "contentHash": "8ceb04748a3837e78b7ddb72e5f5e9d0bcfeaa29",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.auradoc",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1522913393932,
             "changeTime": 1522913393932,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -120,101 +118,127 @@
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 37,
-            "modifiedTime": 1522913393903,
-            "changeTime": 1522913393903,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+            "size": 72,
+            "modifiedTime": 1522913721332,
+            "changeTime": 1522913721332,
+            "contentHash": "4c3917e1e66ecd8c41e4436189c4f4fb6eeb2480"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 249,
             "modifiedTime": 1522913393907,
             "changeTime": 1522913393907,
-            "contentHash": "9ef5b67841935f98e4f694956f0a30f84dcd3342"
+            "contentHash": "9ef5b67841935f98e4f694956f0a30f84dcd3342",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.css",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1522913393920,
             "changeTime": 1522913393920,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.design",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1522913393935,
             "changeTime": 1522913393935,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.svg",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningComp.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1522913393928,
             "changeTime": 1522913393928,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningCompController.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningCompController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1522913393911,
             "changeTime": 1522913393911,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningCompHelper.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningCompHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1522913393916,
             "changeTime": 1522913393916,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningCompRenderer.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\aura\\demoLightningComp\\demoLightningCompRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1522913393923,
             "changeTime": 1522913393923,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\classes\\contactlistcontroller.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\classes\\contactlistcontroller.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1522913779849,
+            "changeTime": 1522913779849,
+            "contentHash": "6fbde82cda4896fe42b1266b409e47a672f415df"
+        }
+    ],
+    [
+        "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\classes\\contactlistcontroller.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Program Files\\sfdx\\SampleDemo\\force-app\\main\\default\\classes\\contactlistcontroller.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1522913779853,
+            "changeTime": 1522913779853,
+            "contentHash": "aada2a75fea8466674b2e53f8120bb0f1fbdb61f"
         }
     ]
 ]
